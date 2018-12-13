@@ -6,5 +6,6 @@ Purple
 Yellow
 Blue
 Orange
+Violet
 These are the colors of my Rainbow
 
