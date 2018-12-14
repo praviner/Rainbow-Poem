@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Red
 Green
@@ -6,6 +6,7 @@ Purple
 Yellow
 Blue
 Orange
+Unicorn
 Violet
 These are the colors of my Rainbow
 
