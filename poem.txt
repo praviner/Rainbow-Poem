@@ -7,6 +7,7 @@ Purple
 Yellow
 Blue
 Indigo
+Black is the color...
 Orange
 Unicorn
 Violet
