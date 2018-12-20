@@ -5,6 +5,7 @@ Green
 Purple
 Yellow
 Blue
+Indigo
 Orange
 Unicorn
 Violet
